@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from cupid OS2.0.1.0.VLCMIXM
+# All unpinned blobs below are extracted from garnet OS2.0.10.0.VNRMIXM
 
 product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk|b002b84688ec6704c91d86bcae0954cda150f83b
 
