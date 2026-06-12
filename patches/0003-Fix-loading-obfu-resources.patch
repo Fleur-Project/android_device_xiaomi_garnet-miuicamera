@@ -1,7 +1,7 @@
-From 8e8183394b9ea06769fd0233bd7b091e4c8a82a1 Mon Sep 17 00:00:00 2001
+From a101281d0f46f8f9040fef7abfb14210812207b1 Mon Sep 17 00:00:00 2001
 From: AdarshGrewal <adarshgrewal@gmail.com>
 Date: Wed, 3 Jun 2026 18:18:58 +0530
-Subject: [PATCH 3/3] Fix loading obfu resources
+Subject: [PATCH 3/5] Fix loading obfu resources
 
 ---
  smali_classes4/v8/a.smali | 18 +++++++++++++++++-
