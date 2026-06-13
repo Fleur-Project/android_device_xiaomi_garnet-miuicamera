@@ -1,1 +1,4 @@
 set_prop(hal_camera_default, vendor_camera_prop)
+
+# MiSys
+type vendor_misys_service, hal_service_type, protected_service, service_manager_type;
